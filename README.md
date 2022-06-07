@@ -1,5 +1,5 @@
 # Bank approval, credit - Kaggle competition
 
 Machine Learning
-- Classification
+- Classification models
 - Confusion Matrix
